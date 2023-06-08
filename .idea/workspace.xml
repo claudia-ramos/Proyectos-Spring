@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecf4090b-47ec-4bdc-abf0-ca36840188eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/curso/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/SecurityApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/modelo/Rol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/src/main/java/com/example/security/modelo/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/src/test/java/com/example/security/SecurityApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AgendaContactos/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AgendaContactos/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AgendaContactos/src/main/resources/templates/editar.html" beforeDir="false" afterPath="$PROJECT_DIR$/AgendaContactos/src/main/resources/templates/editar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AgendaContactos/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/AgendaContactos/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AgendaContactos/src/main/resources/templates/nuevo.html" beforeDir="false" afterPath="$PROJECT_DIR$/AgendaContactos/src/main/resources/templates/nuevo.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QtcaZANarloKZMpdOXarxTItV8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Claudia/Documents/ADA/Proyectos-Spring/security"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecf4090b-47ec-4bdc-abf0-ca36840188eb" name="Changes" comment="" />
+      <created>1686176381533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686176381533</updated>
+      <workItem from="1686176382722" duration="68000" />
+      <workItem from="1686176464039" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
