@@ -2,7 +2,6 @@ package com.example.Registro_Personas.controlador;
 
 
 import com.example.Registro_Personas.entidad.Persona;
-import com.example.Registro_Personas.repositorio.PersonaRepositorio;
 import com.example.Registro_Personas.servicio.PersonaServicio;
 import com.example.Registro_Personas.servicio.UsuarioServicio;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -28,22 +27,24 @@ public class Controlador {
     }
 
     @GetMapping("/")
-    public String verPaginaDeInicio(Model modelo){
-        modelo.addAttribute("usuarios", usuarioServicio.listarTodos());
+    public String verPaginaInicio(Model model) {
+        model.addAttribute("usuarios",usuarioServicio.listarTodos());
         return "index";
     }
 
-    @GetMapping("/")
+    @GetMapping("/home")
     public String home(){
         return "home";
     }
+
+
 
     @GetMapping("/listar")
     public String listar(Model model) {
         List<Persona> personas = personaServicio.listarTodasLasPersonas();
 
         model.addAttribute("personas",personas);
-        return "index";
+        return "lista";
 
     }
 
